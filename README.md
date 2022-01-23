@@ -1,2 +1,2 @@
-# ECOMMERCE-WEBSITE-FOR-MOBILE-COMPANY
-mobile selling ecommerce website using html css and javascript and PHP
+# E-commerce-mobile-Website
+Languages: PHP, js, html , css
